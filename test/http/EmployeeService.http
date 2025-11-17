@@ -28,24 +28,26 @@ Content-Type: application/json
 Authorization: Basic {{username}}:{{password}}
 
 {
-  "ID": "14642026-b621-4c06-965b-af08033e7d03",
-  "nameFirst": "nameFirst-14642026",
-  "nameMiddle": "nameMiddle-14642026",
-  "nameLast": "nameLast-14642026",
-  "nameInitials": "nameInitials-14642026",
+ 
+  "nameFirst": "Harshini",
+  "nameMiddle": "",
+  "nameLast": "karri",
+  "nameInitials": "JD",
   "gender": "M",
-  "language": "6",
-  "phoneNumber": "phoneNumber-14642026",
-  "email": "email-14642026",
-  "loginName": "ame-14642026",
+  "language": "E",
+  "phoneNumber": "+12243740000",
+  "email": "john.doe@itelo.info",
+  "loginName": "john01",
   "currency": {
-    "code": "921"
+    "code": "USD"
   },
-  "salaryAmount": 30881.2,
-  "accountNumber": "tNumber-14642026",
-  "bankId": "14642026",
-  "bankName": "bankName-14642026"
+  "salaryAmount": 30000,
+  "accountNumber": "ACCT0001",
+  "bankId": "BANK0001",
+  "bankName": "Bank of America"
+ 
 }
+
 
 
 ### EmployeeSet
@@ -55,23 +57,24 @@ Content-Type: application/json
 Authorization: Basic {{username}}:{{password}}
 
 {
-  "ID": "14642026-b621-4c06-965b-af08033e7d03",
-  "nameFirst": "nameFirst-14642026",
-  "nameMiddle": "nameMiddle-14642026",
-  "nameLast": "nameLast-14642026",
-  "nameInitials": "nameInitials-14642026",
+ 
+  "nameFirst": "Harshini",
+  "nameMiddle": "reddy",
+  "nameLast": "karri",
+  "nameInitials": "JD",
   "gender": "M",
-  "language": "6",
-  "phoneNumber": "phoneNumber-14642026",
-  "email": "email-14642026",
-  "loginName": "ame-14642026",
+  "language": "E",
+  "phoneNumber": "+12243740000",
+  "email": "john.doe@itelo.info",
+  "loginName": "john01",
   "currency": {
-    "code": "921"
+    "code": "USD"
   },
-  "salaryAmount": 13271881.2,
-  "accountNumber": "tNumber-14642026",
-  "bankId": "14642026",
-  "bankName": "bankName-14642026"
+  "salaryAmount": 30000,
+  "accountNumber": "ACCT0001",
+  "bankId": "BANK0001",
+  "bankName": "Bank of America"
+ 
 }
 
 
