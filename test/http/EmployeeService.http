@@ -52,7 +52,7 @@ Authorization: Basic {{username}}:{{password}}
 
 ### EmployeeSet
 # @name EmployeeSet_PATCH
-PATCH {{server}}/odata/v4/employee/EmployeeSet/14642026-b621-4c06-965b-af08033e7d03
+PATCH {{server}}/odata/v4/employee/EmployeeSet/02BD2137-0890-1EEA-A6C2-BB55C197C7FB
 Content-Type: application/json
 Authorization: Basic {{username}}:{{password}}
 
@@ -70,7 +70,7 @@ Authorization: Basic {{username}}:{{password}}
   "currency": {
     "code": "USD"
   },
-  "salaryAmount": 30000,
+  "salaryAmount": 25000,
   "accountNumber": "ACCT0001",
   "bankId": "BANK0001",
   "bankName": "Bank of America"
@@ -80,7 +80,7 @@ Authorization: Basic {{username}}:{{password}}
 
 ### EmployeeSet
 # @name EmployeeSet_DELETE
-DELETE {{server}}/odata/v4/employee/EmployeeSet/14642026-b621-4c06-965b-af08033e7d03
+DELETE {{server}}/odata/v4/employee/EmployeeSet/02BD2137-0890-1EEA-A6C2-BB55C19787FB
 Content-Type: application/json
 Authorization: Basic {{username}}:{{password}}
 
